@@ -1,0 +1,12 @@
+/Users/kevinjacksonii/Projects/MovieList/MovieList/bin/Debug/netcoreapp3.1/MovieList.deps.json
+/Users/kevinjacksonii/Projects/MovieList/MovieList/bin/Debug/netcoreapp3.1/MovieList.runtimeconfig.json
+/Users/kevinjacksonii/Projects/MovieList/MovieList/bin/Debug/netcoreapp3.1/MovieList.runtimeconfig.dev.json
+/Users/kevinjacksonii/Projects/MovieList/MovieList/bin/Debug/netcoreapp3.1/MovieList.dll
+/Users/kevinjacksonii/Projects/MovieList/MovieList/bin/Debug/netcoreapp3.1/MovieList.pdb
+/Users/kevinjacksonii/Projects/MovieList/MovieList/obj/Debug/netcoreapp3.1/MovieList.csprojAssemblyReference.cache
+/Users/kevinjacksonii/Projects/MovieList/MovieList/obj/Debug/netcoreapp3.1/MovieList.AssemblyInfoInputs.cache
+/Users/kevinjacksonii/Projects/MovieList/MovieList/obj/Debug/netcoreapp3.1/MovieList.AssemblyInfo.cs
+/Users/kevinjacksonii/Projects/MovieList/MovieList/obj/Debug/netcoreapp3.1/MovieList.csproj.CoreCompileInputs.cache
+/Users/kevinjacksonii/Projects/MovieList/MovieList/obj/Debug/netcoreapp3.1/MovieList.dll
+/Users/kevinjacksonii/Projects/MovieList/MovieList/obj/Debug/netcoreapp3.1/MovieList.pdb
+/Users/kevinjacksonii/Projects/MovieList/MovieList/obj/Debug/netcoreapp3.1/MovieList.genruntimeconfig.cache
